@@ -1,0 +1,37 @@
+{
+    "user_id": "F201",
+    "username": "Dr. John Doe",
+    "role": "faculty",
+    "sessions": [
+        {
+            "session_id": "d01c58e9-08f6-4542-9b7e-4739f7711588",
+            "created_at": "2026-06-18T00:07:35.989673",
+            "updated_at": "2026-06-18T00:07:36.145195",
+            "messages": [
+                {
+                    "role": "user",
+                    "content": "🕒 Makeup exam rules"
+                },
+                {
+                    "role": "assistant",
+                    "content": "The makeup exam rules are as follows:  \n1. **Re-evaluations**: Students may apply for a re-evaluation within 7 days of result declaration, provided they pay the prescribed fee.  \n2. **Make-up Exams**: For students who missed the ESE (presumably the exam) due to approved medical emergencies or extreme circumstances, make-up exams are scheduled within 2 weeks of the regular exam end.  \n\nThese rules are explicitly stated in the retrieved context."
+                }
+            ]
+        },
+        {
+            "session_id": "ebd14742-4a97-4b20-b430-805427488d6c",
+            "created_at": "2026-06-18T00:08:07.868461",
+            "updated_at": "2026-06-18T00:08:07.882730",
+            "messages": [
+                {
+                    "role": "user",
+                    "content": "Hi who are you?"
+                },
+                {
+                    "role": "assistant",
+                    "content": "Hello! I'm the College Multi-Agent Assistant, here to support your academic and collaborative needs. As part of the college's multi-agent system, I work alongside various agents to assist with tasks, provide guidance, and enhance your experience. Feel free to ask me anything related to your studies, projects, or support needs! 😊"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "user_id": "F203",
+    "username": "Dr. Alan Turing",
+    "role": "faculty",
+    "sessions": [
+        {
+            "session_id": "67d32228-6464-4400-a27b-7d49fa5e2f1b",
+            "created_at": "2026-06-17T23:34:11.444690",
+            "updated_at": "2026-06-17T23:39:06.784439",
+            "messages": [
+                {
+                    "role": "user",
+                    "content": "What is the average attendance for CS201?"
+                },
+                {
+                    "role": "assistant",
+                    "content": "The query results show that there are no records in the attendance data for the specified course (CS201) and student (F203). This could mean the student hasn't registered for the course or there's a mismatch in the data. Please double-check the course ID and student ID to ensure accuracy. Let me know if you need further assistance!"
+                },
+                {
+                    "role": "user",
+                    "content": "\"What is the policy for conducting makeup exams?\""
+                },
+                {
+                    "role": "assistant",
+                    "content": "The policy for conducting makeup exams specifies that students who missed the ESE (Examination for Senior Secondary) due to approved medical emergencies or extreme circumstances may apply for make-up examinations. These exams are scheduled within 2 weeks of the regular exam end. Students must apply within 7 days of result declaration and pay the prescribed fee to initiate the process. The exact procedure and eligibility criteria are outlined in the academic regulations."
+                },
+                {
+                    "role": "user",
+                    "content": "Hii who are you?"
+                },
+                {
+                    "role": "assistant",
+                    "content": "Hello! I am the College Multi-Agent Assistant, here to help with your academic queries. If you have any questions about courses, exams, or regulations, feel free to ask! 😊"
+                }
+            ]
+        },
+        {
+            "session_id": "cdda2d09-f411-48d7-81e5-d6928fb3a949",
+            "created_at": "2026-06-17T23:48:07.039846",
+            "updated_at": "2026-06-17T23:48:07.070666",
+            "messages": [
+                {
+                    "role": "user",
+                    "content": "What is the policy for conducting makeup exams?\""
+                },
+                {
+                    "role": "assistant",
+                    "content": "The policy for conducting makeup exams is as follows:  \n- Makeup exams are granted to students who missed the ESE (Examination for Senior Secondary) due to **approved medical emergencies or extreme circumstances**.  \n- These exams are **scheduled within 2 weeks of the regular exam end**.  \n- Students must apply for re-evaluation (which is a separate process) **within 7 days of result declaration** and pay the prescribed fee. Makeup exams are specifically for students who missed the ESE, not for re-evaluations.  \n\nNote: The context explicitly mentions the eligibility criteria and scheduling for makeup exams, but does not detail the exact application process (e.g., required documents or approval criteria)."
+                }
+            ]
+        },
+        {
+            "session_id": "2cd1078c-666c-4dce-b74d-4228725f35fd",
+            "created_at": "2026-06-18T00:10:15.069313",
+            "updated_at": "2026-06-18T00:10:15.103370",
+            "messages": [
+                {
+                    "role": "user",
+                    "content": "Hii"
+                },
+                {
+                    "role": "assistant",
+                    "content": "Hello! How can I assist you today? 😊"
+                }
+            ]
+        }
+    ]
+}

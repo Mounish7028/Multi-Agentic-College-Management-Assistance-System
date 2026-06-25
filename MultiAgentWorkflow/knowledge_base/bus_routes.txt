@@ -1,0 +1,31 @@
+COLLEGE BUS ROUTES AND TRANSPORT SERVICES
+
+1. General Information:
+   - The college operates a fleet of 15 buses covering all major areas of the city.
+   - Bus services are available to all registered students and faculty members who possess a valid transport pass.
+   - All buses arrive at the college campus by 8:30 AM and depart from the campus at 5:15 PM.
+
+2. Route Details:
+   - Route 1: North City Route
+     - Stops: Campus -> North Gate -> Central Mall -> Metro Station -> Green Hills.
+     - Departure: 5:15 PM from Main Building.
+     - Driver: Michael Scott (Phone: +1-555-0199).
+   
+   - Route 2: South Suburbs Route
+     - Stops: Campus -> South Square -> River Road -> Railway Station -> Ocean Crest.
+     - Departure: 5:20 PM from Main Building.
+     - Driver: Dwight Schrute (Phone: +1-555-0200).
+
+   - Route 3: East Downtown Route
+     - Stops: Campus -> Tech Park -> East Gate -> Civic Center -> Market Square.
+     - Departure: 5:15 PM from Sports Complex.
+     - Driver: Jim Halpert (Phone: +1-555-0201).
+     
+   - Route 4: West Expressway Route
+     - Stops: Campus -> West Highway -> Toll Plaza -> Blue Lake -> West Terminal.
+     - Departure: 5:30 PM from Main Building.
+     - Driver: Pam Beesly (Phone: +1-555-0202).
+
+3. Emergency and Contact Info:
+   - Transport Coordinator: Mr. Toby Flenderson (Office: Room-105, Admin Block).
+   - Emergency Helpline: +1-555-9111.

@@ -1,0 +1,29 @@
+COLLEGE HANDBOOK AND INFRASTRUCTURE INFORMATION
+
+1. Campus Overview:
+   - The college campus is spread over 50 acres, consisting of the Admin Block, Academic Blocks A, B, and C, the Library Building, the Sports Complex, and residential hostels.
+   - All academic buildings are equipped with high-speed campus Wi-Fi (SSID: College_Guest / College_Member).
+
+2. Central Library:
+   - Location: Library Building, Central Campus.
+   - Operating Hours: 
+     - Weekdays: 8:00 AM to 10:00 PM.
+     - Saturdays: 9:00 AM to 5:00 PM.
+     - Sundays: Closed.
+     - During end-semester exams, the reading hall remains open 24/7.
+   - Facilities: E-resource center, discussion rooms, and individual study carrels. Discussion rooms must be booked in advance at the reception desk.
+
+3. Laboratories:
+   - Computer Science Labs (Lab-301, Lab-302, Lab-303) are located on the 3rd floor of Academic Block A. Lab-302 is the main artificial intelligence and machine learning research lab.
+   - Mechanical Engineering Labs (Thermodynamics Lab, Fluid Mechanics Lab) are located in the Workshop Annex.
+   - Electronics Labs are located on the 1st floor of Academic Block B.
+
+4. Hostels and Dining:
+   - Separate hostels are available for boys (Newton Hall) and girls (Curie Hall).
+   - Mess timings: Breakfast (7:30 AM - 9:00 AM), Lunch (12:30 PM - 2:00 PM), Snacks (5:00 PM - 6:00 PM), Dinner (7:30 PM - 9:00 PM).
+   - The cafeteria (Campus Bite) is open from 9:00 AM to 11:00 PM daily.
+
+5. Campus Security:
+   - Security Office is located at the Main Gate.
+   - Lost and Found counter is at the Admin Block Room 10.
+   - Security Helpline: +1-555-8888.

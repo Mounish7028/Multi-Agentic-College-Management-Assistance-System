@@ -1,0 +1,30 @@
+COLLEGE ACADEMIC REGULATIONS AND EXAMINATION RULES
+
+1. Academic Year and Semesters:
+   - The academic year is divided into two regular semesters: Autumn Semester (August to December) and Spring Semester (January to May).
+   - An optional Summer Semester (June to July) is offered for students who need to clear backlogs.
+
+2. Credit System:
+   - To obtain a Bachelor's degree, a student must complete a minimum of 160 credits.
+   - Core courses typically carry 4 credits, labs carry 2 credits, and electives carry 3 or 4 credits.
+   - Students can register for a maximum of 26 credits and a minimum of 16 credits per semester.
+
+3. Grading Policy and CGPA Calculation:
+   - Grades are awarded on a 10-point scale:
+     - A+ (Outstanding): 10 points (Marks >= 95)
+     - A (Excellent): 9 points (Marks 90 - 94)
+     - B+ (Very Good): 8 points (Marks 80 - 89)
+     - B (Good): 7 points (Marks 70 - 79)
+     - C (Satisfactory): 6 points (Marks 60 - 69)
+     - D (Pass): 5 points (Marks 50 - 59)
+     - F (Fail): 0 points (Marks < 50)
+   - Cumulative Grade Point Average (CGPA) is calculated as the weighted average of grade points earned in all courses since admission.
+
+4. Examination Regulations:
+   - Evaluation is divided into: Continuous Internal Assessment (CIA) - 40% weightage, and End Semester Examination (ESE) - 60% weightage.
+   - A student must obtain at least 40% marks in the ESE and 50% marks overall (CIA + ESE) to pass a course.
+   - Malpractice of any form during examinations will result in automatic failure in all registered courses of the semester and a suspension of up to one academic year.
+
+5. Re-evaluations and Make-up Exams:
+   - Students dissatisfied with their grades can apply for re-evaluation within 7 days of result declaration by paying the prescribed fee.
+   - Make-up examinations are conducted for students who missed the ESE due to approved medical emergencies or extreme circumstances, scheduled within 2 weeks of the regular exam end.
