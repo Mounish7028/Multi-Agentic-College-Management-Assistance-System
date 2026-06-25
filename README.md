@@ -4,6 +4,10 @@ A production-ready multi-agent system designed using LangGraph, LangChain, SQLit
 
 ---
 
+# Preview:-
+<img width="1600" height="901" alt="WhatsApp Image 2026-06-25 at 3 38 38 PM" src="https://github.com/user-attachments/assets/df6d312f-cf22-48fd-95ad-b540e421220e" />
+
+
 ## 🌟 Features
 
 1. **Role-Based Access Control (RBAC)**: Enforces access rules using rule-based guardrails.
